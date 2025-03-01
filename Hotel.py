@@ -1,5 +1,5 @@
 print("Welcome to The Hotel!")
-
+print("Welcome to The home!")
 nights = int(input("Number of Nights: "))
 people = int(input("Number of People: "))
 
