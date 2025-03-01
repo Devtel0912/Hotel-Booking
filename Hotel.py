@@ -14,6 +14,10 @@ hike = input("Hike?")
 boatdinner = input("Boatdinner?")
 
 
+question = input("What Excites You?")
+
+
+
 def room_cost(type, nights):
     if type == 1:
         return 375 * nights
