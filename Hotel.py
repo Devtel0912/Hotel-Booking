@@ -16,7 +16,7 @@ boatdinner = input("Boatdinner?")
 
 question = input("What Excites You?")
 
-
+Age = int(input("How Old are u?")
 
 def room_cost(type, nights):
     if type == 1:
